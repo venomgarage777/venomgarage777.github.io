@@ -1441,6 +1441,14 @@ ul.search-cart li:first-child::after {
     margin-bottom: 0px;
 }
 
+.hero-txt h3 {
+    font-size: 23px;
+    font-weight: 700;
+    color: #fff;
+    text-transform: uppercase;
+    margin-bottom: 0px;
+}
+
 .hero-txt {
     padding: 252px 0px 210px;
 }
@@ -1600,7 +1608,7 @@ a.hero-btn:hover::after {
 .ad h3 {
     font-weight: 700;
     margin: 0px;
-    font-size: 30px;
+    font-size: 28px;
 }
 
 a.ad-btn {

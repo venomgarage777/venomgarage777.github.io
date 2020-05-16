@@ -1,0 +1,33 @@
+	/*
+  	Flaticon icon font: Flaticon
+  	Creation date: 15/05/2020 09:59
+  	*/
+
+@font-face {
+  font-family: "FlaticonVenom";
+  src: url("../fonts/Flaticon-venom.eot");
+  src: url("../fonts/Flaticon-venom.eot?#iefix") format("embedded-opentype"),
+       url("../fonts/Flaticon-venom.woff2") format("woff2"),
+       url("../fonts/Flaticon-venom.woff") format("woff"),
+       url("../fonts/Flaticon-venom.ttf") format("truetype"),
+       url("../fonts/Flaticon-venom.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "FlaticonVenom";
+    src: url("../fonts/Flaticon-venom.svg#FlaticonVenom") format("svg");
+  }
+}
+
+[class^="flaticonvenom-"]:before, [class*=" flaticonvenom-"]:before,
+[class^="flaticonvenom-"]:after, [class*=" flaticonvenom-"]:after {   
+      font-family: FlaticonVenom;
+      font-size: inherit;
+      font-style: normal;
+}
+
+.flaticonvenom-line:before { content: "\f100"; }
+.flaticonvenom-lift:before { content: "\f101"; }
