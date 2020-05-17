@@ -880,7 +880,8 @@
     }
 
     .hero-txt h1 {
-        font-size: 59px;
+        font-size: 23px;
+        line-height: 30px;
     }
 
     .hero-txt {
@@ -1227,8 +1228,8 @@
     }
 
     .hero-txt h1 {
-        font-size: 50px;
-        line-height: 64px;
+        font-size: 23px;
+        line-height: 30px;
     }
 
     a.hero-btn {
@@ -1305,8 +1306,8 @@
 
 @media only screen and (max-width: 460px) {
     .hero-txt h1 {
-        font-size: 48px;
-        line-height: 62px;
+        font-size: 23px;
+        line-height: 30px;
     }
 
     .section-title h2 {
@@ -1345,8 +1346,8 @@
 
 @media only screen and (max-width: 430px) {
     .hero-txt h1 {
-        font-size: 45px;
-        line-height: 62px;
+        font-size: 23px;
+        line-height: 30px;
     }
 
     .cta-area h2 {
@@ -1392,8 +1393,8 @@
     }
 
     .hero-txt h1 {
-        font-size: 42px;
-        line-height: 62px;
+        font-size: 23px;
+        line-height: 30px;
     }
 
     .hero-txt {
@@ -1513,8 +1514,8 @@
 
 @media only screen and (max-width: 390px) {
     .hero-txt h1 {
-        font-size: 40px;
-        line-height: 55px;
+        font-size: 23px;
+        line-height: 30px;
     }
 
     .single-statistic {
@@ -1650,8 +1651,8 @@
 
 @media only screen and (max-width: 360px) {
     .hero-txt h1 {
-        font-size: 38px;
-        line-height: 48px;
+        font-size: 23px;
+        line-height: 30px;
     }
 
     .quote-form {
