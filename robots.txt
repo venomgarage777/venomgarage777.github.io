@@ -1,0 +1,5 @@
+User-Agent: *
+Disallow: /tel
+Allow: /
+
+Sitemap: https://www.venom777.com/sitemap.xml
